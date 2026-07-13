@@ -5,10 +5,10 @@
 **Challenge:** Global Industry Challenge 2026, Phase 3
 
 **Team Members:**
-- Edwin George Shaji (POC) — Qiskit Integration & QAOA Execution
-- Jinsa Mariam Thomas — Python Backend & Graph Modelling
-- Mariam Skaria — Documentation & Commercial Strategy
-- Malavika Krishnan — Classical UI & DB Architecture
+- [Edwin George Shaji](https://github.com/edwingeorgeshaji) (POC) — Qiskit Integration & QAOA Execution
+- [Jinsa Mariam Thomas](https://github.com/JinsaMariamThomas) — Python Backend & Graph Modelling
+- [Mariam Skaria](https://github.com/MariamSkaria) — Documentation & Commercial Strategy
+- [Malavika Krishnan](https://github.com/Malavika-Krishnan) — Classical UI & DB Architecture
 
 ---
 
