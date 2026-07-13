@@ -46,7 +46,7 @@ Tested with:
 - `qiskit-ibm-runtime` 0.47.0
 - `pandapower` 3.5.4
 - `networkx` 3.6.1
-- Python 3.11+
+- `Python` 3.11+
 
 No other external configuration, API keys, or environment variables are required to
 reproduce the **simulator-based** results (Steps 1-8). Reproducing the **real hardware**
