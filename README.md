@@ -1,8 +1,8 @@
 # Q-Site: Hybrid Quantum Resource Allocation for AI-Loaded Microgrids
 
-**Team:** kazi</p>
-**Challenge Track:** U.S. Department of Energy Office of Technology Commercialization — Energy Infrastructure</p>
-**Challenge:** Global Industry Challenge 2026, Phase 3</p>
+> **Team:** kazi</p>
+> **Challenge Track:** U.S. Department of Energy Office of Technology Commercialization — Energy Infrastructure</p>
+> **Challenge:** Global Industry Challenge 2026, Phase 3</p>
 
 **Team Members:**
 - [Edwin George Shaji](https://github.com/edwingeorgeshaji) (POC) — Qiskit Integration & QAOA Execution
