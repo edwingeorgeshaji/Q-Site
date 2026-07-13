@@ -1,0 +1,11 @@
+{
+  "ai_load_bus": 9,
+  "rationale": {
+    "bus": 9,
+    "degree": 2,
+    "dist_to_nearest_gen": 2,
+    "is_existing_load_bus": true,
+    "is_gen_bus": false,
+    "score": 2
+  }
+}
