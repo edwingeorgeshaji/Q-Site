@@ -64,6 +64,8 @@ This project is qBraid-compatible out of the box. To run it on qBraid Lab:
 4. Install dependencies (see above) in a notebook cell
 5. Run scripts in order (see "How to Run" below)
 
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_black.png" width="150">](https://account.qbraid.com?gitHubUrl=<https://github.com/edwingeorgeshaji/Q-Site.git>)
+
 ---
 
 ## How to Run
