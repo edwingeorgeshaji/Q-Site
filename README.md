@@ -119,7 +119,8 @@ guarantees it can be copied and run standalone on qBraid without the earlier ste
    (never share or commit this token):
    ```python
    from qiskit_ibm_runtime import QiskitRuntimeService
-   QiskitRuntimeService.save_account(
+   QiskitRuntimeService.save_account
+   (
        channel="ibm_quantum_platform",
        token="YOUR_TOKEN_HERE",
        instance="YOUR_CRN_HERE",
