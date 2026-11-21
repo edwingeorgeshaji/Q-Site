@@ -218,6 +218,8 @@ We state these explicitly, as required by the challenge guidelines:
     └── figures/                       (PNG figures used in the write-up)
 ```
 
+---
+
  <div align='center'>
   
   Bulit by,<strong> [R.E.C](https://github.com/edwingeorgeshaji) </strong>  <i>(ifykyk).</i>
